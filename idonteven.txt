@@ -1,0 +1,28 @@
+The OSRS Adventure log:
+Disclaimer: This is focusing on what we are able to do now. "What-if" goals such as the automatic updating of drops, quests or anything else in game will be mentioned but not worked on at the moment.
+
+-Abstract-
+One centralized website where social intercation can happen outside of runescape while keeping the topic on, specifically, old school runescape. Players are able to have unlimited friends but community culture will not be based on a numbers game. The posibility of hiding the friends count is likely. Players will be able to embed their YouTube Videos and Twitch streams. Thoughts of importing twitter streams is possible. But we may end up sticking to using our own network for textual updates. Pictures being posted will boost the exposure and accomplishment of acheivments, while it's easy to believe that a centralized online community will output more runescape related content, which in turn helps gain exposure of runescape. Volume and quality of runescape related meme's will improve greatly, something which is an integral part of gaining new crowds of people on the internet. 
+
+
+-Mission-
+To foster the OSRS community.
+
+-Specifics-
+Users will be able to sign up with either facebook, twitter or email to create a profile. They are welcome to use their name in leiu of RSN's but verifying ones runescape account is needed. Verified and unverified users will be identified respectevly. Posts can be made public or friends only. Clan support should be considered for 2.0 but not essential for now. Age will need to be verified to set language filter and ability to make public posts. Public posts are for 16+. Language filter is 14+. These are our own standards, not Jagex's. 
+
+Financial Viability: users can have the ability to take out ads to promote their youtube/twitch channels, mass-events, etc. To encourage users to use ads, they will be priced very affordably.
+
+
+
+Needs -
+For logins:
+  Facebook API
+  Twitter API
+
+For General Site use:
+  Highscores API
+  
+  
+  
+
